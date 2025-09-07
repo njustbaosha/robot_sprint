@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "zdtstepmotor.h": "c",
+        "main.h": "c",
+        "motor_def.h": "c",
+        "controller.h": "c",
+        "kinematic.h": "c",
+        "pid.h": "c",
+        "math.h": "c",
+        "__assert": "c",
+        "__config": "c",
+        "type_traits": "c",
+        "limits": "c"
+    }
+}
